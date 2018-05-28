@@ -1,0 +1,7 @@
+# graphe4.txt 
+# Nodes: 4 Edges: 4
+# FromNodeId	ToNodeId
+1	0
+1	2
+2	3
+3	0

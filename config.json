@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "pagerank_file": "sortData/amazon-n20e96.txt",
+    "amazon_data": "metaData/amazon-meta.txt",
+    "dict_dir": "wordsArchive/",
+    "dict_ignore": "wordsIgnore/prepositions.txt"
+  }
+}
